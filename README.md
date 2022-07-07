@@ -1,2 +1,2 @@
 # dev-exercises-html5-n-css3
-Exercises i made from a Dev Web course.
+Exercícios que eu fiz em um curso de Desenvolvimento Web. Desenvolvimento Web pela Udemy.
